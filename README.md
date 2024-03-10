@@ -1,3 +1,3 @@
 # git-test
 
-### This time I'm commited to learn front-end without giving up!!!
+### This time I'm committed to learn front-end without giving up!!!
